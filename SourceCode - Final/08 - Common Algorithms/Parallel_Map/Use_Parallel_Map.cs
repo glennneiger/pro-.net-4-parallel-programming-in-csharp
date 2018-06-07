@@ -22,6 +22,7 @@ namespace Parallel_Map {
                     sourceData[i],
                     resultData[i]);
             }
+            Console.Read();
         }
     }
 }

@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Inconsistent_Cancellation\bin\Debug\Inconsistent_Cancellation.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Inconsistent_Cancellation\bin\Debug\Inconsistent_Cancellation.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Inconsistent_Cancellation\obj\x86\Debug\Inconsistent_Cancellation.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Inconsistent_Cancellation\obj\x86\Debug\Inconsistent_Cancellation.pdb

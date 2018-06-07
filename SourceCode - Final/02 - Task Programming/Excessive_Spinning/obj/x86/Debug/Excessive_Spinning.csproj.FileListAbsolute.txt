@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Excessive_Spinning\bin\Debug\Excessive_Spinning.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Excessive_Spinning\bin\Debug\Excessive_Spinning.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Excessive_Spinning\obj\x86\Debug\Excessive_Spinning.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Excessive_Spinning\obj\x86\Debug\Excessive_Spinning.pdb

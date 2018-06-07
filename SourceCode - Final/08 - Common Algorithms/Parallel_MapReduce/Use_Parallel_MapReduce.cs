@@ -53,6 +53,7 @@ namespace Parallel_MapReduce {
                     kvp.Key, 
                     kvp.Value);
             }
+            Console.Read();
         }
     }
 }

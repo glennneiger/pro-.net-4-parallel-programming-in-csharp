@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Tree_Traverse\bin\Debug\Parallel_Tree_Traverse.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Tree_Traverse\bin\Debug\Parallel_Tree_Traverse.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Tree_Traverse\obj\x86\Debug\Parallel_Tree_Traverse.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Tree_Traverse\obj\x86\Debug\Parallel_Tree_Traverse.pdb

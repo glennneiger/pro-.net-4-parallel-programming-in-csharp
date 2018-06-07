@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Cache\bin\Debug\Parallel_Cache.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Cache\bin\Debug\Parallel_Cache.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Cache\obj\x86\Debug\Parallel_Cache.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Cache\obj\x86\Debug\Parallel_Cache.pdb

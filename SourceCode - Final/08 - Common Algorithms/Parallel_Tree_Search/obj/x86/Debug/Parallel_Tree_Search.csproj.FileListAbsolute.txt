@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Tree_Search\bin\Debug\Parallel_Tree_Search.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Tree_Search\bin\Debug\Parallel_Tree_Search.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Tree_Search\obj\x86\Debug\Parallel_Tree_Search.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_Tree_Search\obj\x86\Debug\Parallel_Tree_Search.pdb

@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel Sort\bin\Debug\Parallel Sort.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel Sort\bin\Debug\Parallel Sort.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel Sort\obj\x86\Debug\Parallel Sort.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel Sort\obj\x86\Debug\Parallel Sort.pdb

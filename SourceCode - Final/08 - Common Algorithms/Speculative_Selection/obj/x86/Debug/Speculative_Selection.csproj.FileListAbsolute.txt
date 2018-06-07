@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Speculative_Selection\bin\Debug\Speculative_Selection.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Speculative_Selection\bin\Debug\Speculative_Selection.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Speculative_Selection\obj\x86\Debug\Speculative_Selection.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Speculative_Selection\obj\x86\Debug\Speculative_Selection.pdb

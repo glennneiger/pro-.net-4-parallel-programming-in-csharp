@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Speculative_Cache\bin\Debug\Speculative_Cache.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Speculative_Cache\bin\Debug\Speculative_Cache.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Speculative_Cache\obj\x86\Debug\Speculative_Cache.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Speculative_Cache\obj\x86\Debug\Speculative_Cache.pdb

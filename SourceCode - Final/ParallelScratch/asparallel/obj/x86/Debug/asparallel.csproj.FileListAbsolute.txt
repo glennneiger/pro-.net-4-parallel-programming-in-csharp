@@ -1,0 +1,5 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\ParallelScratch\asparallel\bin\Debug\asparallel.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\ParallelScratch\asparallel\bin\Debug\asparallel.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\ParallelScratch\asparallel\obj\x86\Debug\asparallel.csprojResolveAssemblyReference.cache
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\ParallelScratch\asparallel\obj\x86\Debug\asparallel.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\ParallelScratch\asparallel\obj\x86\Debug\asparallel.pdb

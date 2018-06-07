@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_17\bin\Debug\Listing_17.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_17\bin\Debug\Listing_17.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_17\obj\x86\Debug\Listing_17.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_17\obj\x86\Debug\Listing_17.pdb

@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\06 - Parallel LINQ\Listing_01\bin\Debug\Listing_01.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\06 - Parallel LINQ\Listing_01\bin\Debug\Listing_01.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\06 - Parallel LINQ\Listing_01\obj\x86\Debug\Listing_01.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\06 - Parallel LINQ\Listing_01\obj\x86\Debug\Listing_01.pdb

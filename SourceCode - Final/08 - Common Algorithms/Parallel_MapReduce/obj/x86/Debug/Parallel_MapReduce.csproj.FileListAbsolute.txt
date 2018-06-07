@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_MapReduce\bin\Debug\Parallel_MapReduce.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_MapReduce\bin\Debug\Parallel_MapReduce.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_MapReduce\obj\x86\Debug\Parallel_MapReduce.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\08 - Common Algorithms\Parallel_MapReduce\obj\x86\Debug\Parallel_MapReduce.pdb

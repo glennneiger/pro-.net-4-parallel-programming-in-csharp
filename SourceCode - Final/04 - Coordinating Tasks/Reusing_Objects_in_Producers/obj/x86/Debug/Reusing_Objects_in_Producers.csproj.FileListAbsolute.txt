@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Reusing_Objects_in_Producers\bin\Debug\Reusing_Objects_in_Producers.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Reusing_Objects_in_Producers\bin\Debug\Reusing_Objects_in_Producers.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Reusing_Objects_in_Producers\obj\x86\Debug\Reusing_Objects_in_Producers.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Reusing_Objects_in_Producers\obj\x86\Debug\Reusing_Objects_in_Producers.pdb

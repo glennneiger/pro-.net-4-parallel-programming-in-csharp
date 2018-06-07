@@ -58,6 +58,7 @@ namespace Parallel_Sort {
 
             // print out the per-iteration time
             Console.WriteLine("Per iteration time: {0}", elaspedTime/iterations);
+            Console.Read();
         }
 
 

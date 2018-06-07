@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Listing_20\bin\Debug\Listing_20.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Listing_20\bin\Debug\Listing_20.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Listing_20\obj\x86\Debug\Listing_20.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Listing_20\obj\x86\Debug\Listing_20.pdb

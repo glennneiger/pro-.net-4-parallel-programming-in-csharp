@@ -15,6 +15,7 @@ namespace Parallel_Sort {
 
             // perform the parallel sort
             Parallel_Sort<int>.ParallelQuickSort(sourceData, new IntComparer());
+            Console.Read();
         }
 
         public class IntComparer : IComparer<int> {

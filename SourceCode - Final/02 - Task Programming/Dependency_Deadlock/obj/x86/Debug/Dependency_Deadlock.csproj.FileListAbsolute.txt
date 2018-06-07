@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Dependency_Deadlock\bin\Debug\Dependency_Deadlock.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Dependency_Deadlock\bin\Debug\Dependency_Deadlock.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Dependency_Deadlock\obj\x86\Debug\Dependency_Deadlock.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\02 - Task Programming\Dependency_Deadlock\obj\x86\Debug\Dependency_Deadlock.pdb

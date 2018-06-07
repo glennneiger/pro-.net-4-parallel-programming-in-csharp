@@ -1,0 +1,7 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_22\bin\Debug\Listing_22.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_22\bin\Debug\Listing_22.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_22\bin\Debug\Listing_21.dll
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_22\bin\Debug\Listing_21.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_22\obj\x86\Debug\Listing_22.csprojResolveAssemblyReference.cache
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_22\obj\x86\Debug\Listing_22.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Listing_22\obj\x86\Debug\Listing_22.pdb

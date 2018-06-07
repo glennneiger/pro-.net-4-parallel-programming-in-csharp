@@ -17,7 +17,7 @@ namespace Listing_14 {
             Task task1 = new Task(() => {
                 for (int i = 0; i < Int32.MaxValue; i++) {
                     // put the task to sleep for 10 seconds
-                    Thread.Sleep(10000);
+                    Thread.Sleep(1000);
                     // print out a message
                     Console.WriteLine("Task 1 - Int value {0}", i);
                     // check for task cancellation

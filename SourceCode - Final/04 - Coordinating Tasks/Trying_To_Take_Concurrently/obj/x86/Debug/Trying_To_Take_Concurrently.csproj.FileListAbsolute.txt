@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Trying_To_Take_Concurrently\bin\Debug\Trying_To_Take_Concurrently.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Trying_To_Take_Concurrently\bin\Debug\Trying_To_Take_Concurrently.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Trying_To_Take_Concurrently\obj\x86\Debug\Trying_To_Take_Concurrently.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Trying_To_Take_Concurrently\obj\x86\Debug\Trying_To_Take_Concurrently.pdb

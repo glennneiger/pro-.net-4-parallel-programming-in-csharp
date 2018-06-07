@@ -1,0 +1,4 @@
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Using_BlockingCollection_as_IEnum\bin\Debug\Using_BlockingCollection_as_IEnum.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Using_BlockingCollection_as_IEnum\bin\Debug\Using_BlockingCollection_as_IEnum.pdb
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Using_BlockingCollection_as_IEnum\obj\x86\Debug\Using_BlockingCollection_as_IEnum.exe
+C:\git\pro-.net-4-parallel-programming-in-csharp\SourceCode - Final\04 - Coordinating Tasks\Using_BlockingCollection_as_IEnum\obj\x86\Debug\Using_BlockingCollection_as_IEnum.pdb
